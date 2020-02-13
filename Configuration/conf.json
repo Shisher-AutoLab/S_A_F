@@ -1,0 +1,39 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "murtuzaadenwala1",
+  "key": "yNRSo92YwmkxGe1EpUuk",
+
+  "capabilities": {
+    "name": "Dummy Test",
+    
+    "browserstack.local": true
+    "browserstack.localIdentifier": "Test123"
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+      "os": "Windows",
+    "os_version": "7"
+    "browser_version": "77.0 beta",
+    "resolution": "1024x768"
+    },
+    "firefox": {
+      "browser": "firefox"
+    },
+    "safari": {
+      "browser": "safari"
+    },
+    "ie": {
+      "browser": "internet explorer"
+    },
+    "edge": {
+    
+    "os": "Windows",
+    "os_version": "10",
+    "browser": "Edge",
+    "browser_version": "18.0",
+    "resolution": "1024x768"
+  }
+  }
+}
