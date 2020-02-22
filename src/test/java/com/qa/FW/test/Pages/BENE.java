@@ -9,7 +9,7 @@ public class BENE extends Base {
 	public BENE() {
 		super();
 	}
-
+//
 	@Test
 	public void validateLogin() {
 		login.login("Test", "Welcome");
